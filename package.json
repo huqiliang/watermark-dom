@@ -1,6 +1,6 @@
 {
-  "name": "watermark-dom",
-  "version": "2.3.0",
+  "name": "watermark-dom-gc",
+  "version": "2.3.1",
   "description": "watermark for DOM",
   "keywords": [
     "watermark", "watermark-dom"
